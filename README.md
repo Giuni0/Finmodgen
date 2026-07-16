@@ -1,6 +1,5 @@
-# Finmodgen — simple Yahoo Finance to Excel financial model
+# Finmodgen — Excel financial model generator from publicly available data
 
-This small utility fetches financial statements and historical prices for a ticker from Yahoo Finance and writes a simple Excel financial model.
 
 Requirements
 - Python 3.8+
